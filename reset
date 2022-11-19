@@ -1,0 +1,50 @@
+[33mcommit ed1f9a29d504687fd375ea5e756e51d312231463[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: b39cd95 45e1ea3
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 17:12:31 2022 +0530
+
+    Merge branch 'feature'
+    seperate branches merged`
+
+[33mcommit 45e1ea3190019046a92f868a1da6b789e5e34651[m[33m ([m[1;32mfeature[m[33m)[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 16:58:11 2022 +0530
+
+    hello file modified
+
+[33mcommit b39cd954488f20094fa69af2f54a2b4239250060[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 16:43:58 2022 +0530
+
+    hey file modified
+
+[33mcommit e71e199bb68fe6af3a9234858996af49a7e65e5b[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: 71e8a69 cb5eb6a
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 16:26:17 2022 +0530
+
+    WIP on feature: 71e8a69 hello file added
+
+[33mcommit cb5eb6a41a5016760052a8408771adc3b2195183[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 16:26:17 2022 +0530
+
+    index on feature: 71e8a69 hello file added
+
+[33mcommit 71e8a697006ace35f86085904978d6e4bfd5d396[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 05:15:13 2022 +0530
+
+    hello file added
+
+[33mcommit 0307324828b25b0158a106cf03a999038ab6d9d2[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Tue Nov 15 04:56:20 2022 +0530
+
+    Second file added
+
+[33mcommit a87c3fd1921a86f5f4becd45a765433289a0fad6[m
+Author: Aksa <aksaabraham27072002@gmail.com>
+Date:   Sat Nov 12 12:10:30 2022 +0530
+
+    initial commit
